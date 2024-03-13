@@ -1,5 +1,5 @@
-# SistemaGestionEscolar_back
-Este repositorio alberga APIs desarrolladas en ASP.NET Core para administrar estudiantes (CRUD). Utiliza Entity Framework para acceder a la base de datos, ofreciendo una solución completa para la gestión de registros estudiantiles en entornos educativos.
+# SistemaGestionEscolar_Front
+Este repositorio utiliza TypeScript y React para desarrollar un sistema de gestión de estudiantes. Emplea Fetch para consumir APIs, React para manejar el estado de las consultas y organiza los componentes para una mejor modularidad y mantenimiento del código. Además, aprovecha las capacidades de TypeScript para proporcionar un tipado fuerte y seguro.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
